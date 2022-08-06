@@ -49,15 +49,38 @@ Bug type -  Visual
 Severity - Low
 Priority - Low
 Title - On the right side of the "OUTLINE" page in the "WiFi provisioning" section, the link to go through the sections of the page is not centered with respect to each other.
-Url - https://docs.blynk.io/en/getting-started/activating-devices/blynk-edgent-wifi-provisioning#esp32-esp8266-specific-issues
+Url - https://docs.blynk.io/en/getting-started/activating-devices/blynk-edgent-wifi-provisioning
 Steps - 1. Open https://docs.blynk.io/en/ 2. On the left side of the site, click on the arrow under "Device Activation Methods" 3. In the drop down menu, click on "WiFi provisioning". 
 Actual result - The "ESP32/ESP8266-specific issues" link to navigate through sections of the page is not centered relative to the other links on the right side of the "OUTLINE" page. 
 Expected result - The link to navigate to the page sections is centered relative to other links in the section on the right side of the "OUTLINE" page 
 __________________________________________________________________________________________________________________________________________________________________
-
-
-
-
+Bug type - Functional
+Severity - Low
+Priority - High
+Title -The message "Cloud not load image" is displayed in the "WiFi provisioning" section when the section is loaded.
+Url - https://docs.blynk.io/en/getting-started/activating-devices/blynk-edgent-wifi-provisioning
+Steps - 1. Open https://docs.blynk.io/en/ 2. On the left side of the site, click on the arrow under "Device Activation Methods" 3. In the drop down menu, click on "WiFi provisioning" 4. Scroll down the page a bit 
+Actual result - The image under "WiFi provisioning" does not load
+Expected result - The image is loaded and available for detailed viewing under "WiFi provisioning".
+___________________________________________________________________________________________________________________________________________________________________
+Bug type - Functional
+Severity - Low
+Priority - High
+Title - The "WiFi Provisioning" section does not display when you click on the icon under "Setting up your sketch to enable WiFi Provisioning" number 4.
+Url - https://docs.blynk.io/en/getting-started/activating-devices/blynk-edgent-wifi-provisioning
+Steps - 1. Open https://docs.blynk.io/en/ 2. On the left side of the site, click on the arrow under "Device Activation Methods" 3. In the drop down menu, click on "WiFi provisioning" 4. Scroll down the page a bit to "Setting up your sketch to enable WiFi Provisioning" 5. Click on the icon next to the number 4
+Actual result - When you click the icon in "Setting up your sketch to enable WiFi Provisioning" number 4, the image does not load
+Expected result - The image loads when you click the icon under "Setting up your sketch to enable WiFi Provisioning" at number 4 
+___________________________________________________________________________________________________________________________________________________________________
+Bug type - Functional
+Severity - Low
+Priority - High
+Title - The "WiFi Provisioning" section does not display when you click on the icon under "Setting up your sketch to enable WiFi Provisioning" number 3 "Copy the Firmware Configuration code lines".
+Url - https://docs.blynk.io/en/getting-started/activating-devices/blynk-edgent-wifi-provisioning
+Steps - 1. Open https://docs.blynk.io/en/ 2. On the left side of the site, click on the arrow under "Device Activation Methods" 3. In the drop down menu, click on "WiFi provisioning" 4. Scroll down the page a bit to "Setting up your sketch to enable WiFi Provisioning" 5. Click on the icon under 3. "Copy the Firmware Configuration code lines"
+Actual result - When click on the icon under "Configuring the sketch to enable WiFi Provisioning" number "3. Copy the Firmware Configuration code lines", the image does not load
+Expected result - The image is loaded when click on the icon under "Configuring the sketch to enable WiFi Provisioning" number "3. Copy the Firmware Configuration code lines",
+____________________________________________________________________________________________________________________________________________________________________
 
 
 
