@@ -78,5 +78,5 @@ Title - An icon appears under "Setting up your sketch to enable WiFi Provisionin
 Url - https://docs.blynk.io/en/getting-started/activating-devices/blynk-edgent-wifi-provisioning
 Steps - 1. Open https://docs.blynk.io/en/ 2. On the left side of the site, click on the arrow under "Device Activation Methods" 3. In the drop down menu, click on "WiFi provisioning" 4. Scroll down the page a bit to "Setting up your sketch to enable WiFi Provisioning" 5. Hover over "Setting up your sketch to enable WiFi Provisioning"
 Actual result - When you hover over the "Setting up your sketch to enable WiFi Provisioning" icon, an icon appears under the "Setting up your sketch to enable WiFi Provisioning" section. 
-Expected result - Иконка расположена в конце надписи "Setting up your sketch to enable WiFi Provisioning" в разделе "WiFi provisioning" 
+Expected result - The icon is located at the end of "Setting up your sketch to enable WiFi Provisioning" under "WiFi provisioning" 
 _____________________________________________________________________________________________________________________________________________________________________
